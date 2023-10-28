@@ -53,8 +53,7 @@ Load the `crypto_market_data.csv` into a DataFrame, get the summary statistics, 
 <img width="1298" alt="Screenshot 2023-10-28 at 12 35 53 PM" src="https://github.com/CJunger/CryptoClustering/assets/131617662/b473d1ac-0894-4df3-91a3-58de497b5796">
 
 
-### Installation & Requirements
+### references
+In class notes for Module 19.
+Tutoring Session with Mark Fulton.
 
-This project can be run in a Jupyter notebook with the following libraries and dependencies imported pandas, hvplot.pandas, sklearn.cluster KMeans, sklearn.decomposition PCA, sklearn.preprocessing Standard Scaler. 
-
-### 
